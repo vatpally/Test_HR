@@ -7,3 +7,6 @@ sap.ui.generic.app.AppComponent.extend("nw.epm.refapps.st.prod.manage.Component"
 		"manifest": "json"
 	}
 });
+
+
+// * this is test 
